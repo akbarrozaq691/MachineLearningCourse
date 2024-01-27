@@ -20,9 +20,6 @@ Discover techniques for exploring and preparing your data for machine learning m
 🧐 Model Evaluation and Selection
 Learn how to evaluate the performance of machine learning models and choose the right algorithms for your specific tasks.
 
-🚀 Advanced Topics
-Delve into advanced machine learning concepts such as deep learning, reinforcement learning, and natural language processing.
-
 Contributions
 Contributions are more than welcome! Feel free to open issues, submit pull requests, or provide feedback. Let's learn and grow together in the exciting field of machine learning!
 
